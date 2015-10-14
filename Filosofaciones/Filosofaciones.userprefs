@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameMode.cs">
+    <Files>
+      <File FileName="Assets\Personaje.cs" Line="17" Column="24" />
+      <File FileName="Assets\Cuerda.cs" Line="39" Column="95" />
+      <File FileName="Assets\GetCoin.cs" Line="22" Column="4" />
+      <File FileName="Assets\GameMode.cs" Line="46" Column="85" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
